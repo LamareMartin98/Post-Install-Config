@@ -59,7 +59,7 @@ osTicket Installation Files: https://drive.google.com/drive/u/1/folders/1APMfNyf
 <img src =https://i.imgur.com/DRTi05y.png)
 </p>
   
-### **If you are still having trouble downloading PHP 7.3.8, please try downloading and installing Google Chrome and doing it from within there.** 
+### **If you are still having trouble downloading PHP 7.3.8, please try downloading and installing [Google Chrome](https://www.google.com/chrome/) and doing it from within there.** 
 
 ### From the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6), download and install [VC_redist.x86.exe.](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
 
@@ -228,7 +228,7 @@ osTicket Installation Files: https://drive.google.com/drive/u/1/folders/1APMfNyf
 
 ## Part 4 (Tickets and Ticket Lifecycle)
 
-### Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
+### Just practice creating, triaging, and solving tickets.
 
 **-  Ticket examples:**
 
