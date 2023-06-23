@@ -15,7 +15,7 @@ osTicket Installation Files: https://drive.google.com/drive/u/1/folders/1APMfNyf
 
 ## Part 2 (Installation)
 
-### **Note: I wouldn't really consider this a “simple list” because the steps are just installing a bunch of prerequisite software, but you can use it as a guide to work through the lab. No need to try to memorize everything.**
+### **Note: These steps are just installing a bunch of prerequisite software and doing it on your own as i did, you can use it as a guide to see how this was done and gain an understanding in the event that you don't already.**
 
 
 
